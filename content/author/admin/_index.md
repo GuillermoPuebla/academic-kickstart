@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Guillermo Puebla"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,43 +9,48 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Student in Psychology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Edinburgh", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "guillermo.puebla@ed.ac.uk"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Relational Learning",
+  "Neural-symbolic models",
+  "Categorization"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Psychology, Expected 2020"
+  institution = "University of Edinburgh"
+#  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Psychology"
+  institution = "University of Edinburgh"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MPhil in Psychology"
+  institution = "University of Queensland"
+  year = 2015
+
+[[education.courses]]
+  course = "BSc in Psychology"
+  institution = "Universidad de Tarapacá"
   year = 2008
 
 # Social/Academic Networking
@@ -56,32 +61,35 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:guillermo.puebla@ed.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/GuillermoPuebl6"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=pEKy224AAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/GuillermoPuebla"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+# icon = "cv"
+# icon_pack = "ai"
+# link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a 3rd year PhD student in Psychology at the University of Edinburgh working with
+[Alex Doumas](https://www.ed.ac.uk/profile/leonidas-doumas) and [Andrea Martin](https://sites.google.com/site/aemn1011/). 
+I study how people and machines learn to represent relations between objects in the world. I'm particularly
+interested in which classes of models can learn relational representations and what kinds of prerequisites (i.e., inductive biases or innate processing modules) allows people to achieve this feat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Another area of interest concerns how people's causal understanding of different categories affects the way people categorize different objects.
