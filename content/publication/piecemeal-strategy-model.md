@@ -2,7 +2,7 @@
 publication_type = 1
 title = "A Piecemeal Processing Strategy Model for Causal-Based Categorization"
 date = "2019-05-07"
-abstract = "Over the last 20 years, causal-model theory has produced much knowledge about causal-based categorization. However, per- sistent violations to the normative causal-model theory are prevalent. In particular, violations to the Markov condition have been repeatedly found. These violations have received different explanations. Here, we develop a model that starts from generally accepted cognitive phenomena (e.g., process- ing limitations, the relevance of inference in cognitive process- ing) and assumes that people are not fully causal nor fully asso- ciative when performing causal-based categorization, offering a new explanation for Markov violations."
+abstract = "Over the last 20 years, causal-model theory has produced much knowledge about causal-based categorization. However, persistent violations to the normative causal-model theory are prevalent. In particular, violations to the Markov condition have been repeatedly found. These violations have received different explanations. Here, we develop a model that starts from generally accepted cognitive phenomena (e.g., processing limitations, the relevance of inference in cognitive processing) and assumes that people are not fully causal nor fully associative when performing causal-based categorization, offering a new explanation for Markov violations."
 authors = ["Guillermo Puebla", "Sergio E. Chaigneau"]
 featured = false
 publication = "To be presented at CogSci 2019"
